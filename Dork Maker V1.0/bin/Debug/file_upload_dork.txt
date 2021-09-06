@@ -1,0 +1,14 @@
+inurl:admin/eWebEditor/Upload.asp
+inurl:/admin/saveannounce_upload.asp
+inurl:UploadFile/upload.asp
+inurl:/tabid/36/language/en-US/Default.aspx
+inurl:/Providers/HtmlEditorProviders/Fck/fcklinkgallery.aspx
+inurl:tabid/1162/Default.aspx
+inurl:editor/assetmanager/
+EXPLOIT : /Editor/assetmanager/assetmanager.asp
+inurl index.php?option=com_expose
+Exploit: administrator/components/com_expose/uploadimg.php
+Uploadin gittigi yer : /components/com_expose/expose/img/
+Sitefinity: Login
+inurl:Sitefinity: Login
+exploit: Sitefinity/UserControls/Dialogs/ImageEditorDialog.aspx

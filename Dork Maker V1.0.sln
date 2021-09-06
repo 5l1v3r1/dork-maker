@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dork Maker V1.0", "Dork Maker V1.0\Dork Maker V1.0.csproj", "{3E1797EF-B4A3-4FD9-9FF5-09149E55E454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1797EF-B4A3-4FD9-9FF5-09149E55E454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1797EF-B4A3-4FD9-9FF5-09149E55E454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1797EF-B4A3-4FD9-9FF5-09149E55E454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1797EF-B4A3-4FD9-9FF5-09149E55E454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF76096-73C1-4B3B-A1E1-0F327EE573F7}
+	EndGlobalSection
+EndGlobal
