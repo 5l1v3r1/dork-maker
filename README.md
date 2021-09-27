@@ -28,7 +28,7 @@
 
 ## Video
 
-[![DorkMaker](https://img.youtube.com/vi/3Ui5Whf82Zk&t=88s/0.jpg)](https://www.youtube.com/watch?v=3Ui5Whf82Zk&t=88s)
+[![DorkMaker](https://img.youtube.com/vi/3Ui5Whf82Zk/0.jpg)](https://www.youtube.com/watch?v=3Ui5Whf82Zk)
 
 
 
