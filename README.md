@@ -26,10 +26,13 @@
 
 ![Dork Maker](https://user-images.githubusercontent.com/32311900/132242151-7157b6e5-3fe5-4c40-881a-3763fc2919fb.gif)
 
+<center>
+
 ## Video
 
 [![DorkMaker](https://img.youtube.com/vi/3Ui5Whf82Zk/0.jpg)](https://www.youtube.com/watch?v=3Ui5Whf82Zk)
 
+</center>
 
 
 
